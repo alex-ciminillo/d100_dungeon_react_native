@@ -1,0 +1,110 @@
+export const room1 = require('./yellow1.png');
+export const room2 = require('./red2.png');
+export const room3 = require('./yellow3.png');
+export const room4 = require('./red4.png');
+export const room5 = require('./yellow5.png');
+export const room6 = require('./green6.png');
+export const room7 = require('./red7.png');
+export const room8 = require('./yellow8.png');
+export const room9 = require('./green9.png');
+export const room10 = require('./red10.png');
+
+export const room11 = require('./green11.png');
+export const room12 = require('./red12.png');
+export const room13 = require('./yellow13.png');
+export const room14 = require('./green14.png');
+export const room15 = require('./red15.png');
+export const room16 = require('./red16.png');
+export const room17 = require('./yellow17.png');
+export const room18 = require('./red18.png');
+export const room19 = require('./yellow19.png');
+export const room20 = require('./green20.png');
+
+export const room21 = require('./yellow21.png');
+export const room22 = require('./red22.png');
+export const room23 = require('./yellow23.png');
+export const room24 = require('./yellow24.png');
+export const room25 = require('./red25.png');
+export const room26 = require('./green26.png');
+export const room27 = require('./yellow27.png');
+export const room28 = require('./yellow28.png');
+export const room29 = require('./yellow29.png');
+export const room30 = require('./red30.png');
+
+export const room31 = require('./red31.png');
+export const room32 = require('./yellow32.png');
+export const room33 = require('./red33.png');
+export const room34 = require('./yellow34.png');
+export const room35 = require('./green35.png');
+export const room36 = require('./red36.png');
+export const room37 = require('./yellow37.png');
+export const room38 = require('./red38.png');
+export const room39 = require('./green39.png');
+export const room40 = require('./yellow40.png');
+
+export const room41 = require('./yellow41.png');
+export const room42 = require('./red42.png');
+export const room43 = require('./yellow43.png');
+export const room44 = require('./green44.png');
+export const room45 = require('./yellow45.png');
+export const room46 = require('./red46.png');
+export const room47 = require('./yellow47.png');
+export const room48 = require('./red48.png');
+export const room49 = require('./yellow49.png');
+export const room50 = require('./red50.png');
+
+export const room51 = require('./green51.png');
+export const room52 = require('./yellow52.png');
+export const room53 = require('./red53.png');
+export const room54 = require('./green54.png');
+export const room55 = require('./yellow55.png');
+export const room56 = require('./red56.png');
+export const room57 = require('./green57.png');
+export const room58 = require('./red58.png');
+export const room59 = require('./yellow59.png');
+export const room60 = require('./red60.png');
+
+export const room61 = require('./red61.png');
+export const room62 = require('./yellow62.png');
+export const room63 = require('./green63.png');
+export const room64 = require('./yellow64.png');
+export const room65 = require('./green65.png');
+export const room66 = require('./yellow66.png');
+export const room67 = require('./yellow67.png');
+export const room68 = require('./green68.png');
+export const room69 = require('./red69.png');
+export const room70 = require('./yellow70.png');
+
+export const room71 = require('./green71.png');
+export const room72 = require('./red72.png');
+export const room73 = require('./yellow73.png');
+export const room74 = require('./red74.png');
+export const room75 = require('./yellow75.png');
+export const room76 = require('./yellow76.png');
+export const room77 = require('./red77.png');
+export const room78 = require('./yellow78.png');
+export const room79 = require('./red79.png');
+export const room80 = require('./green80.png');
+
+export const room81 = require('./red81.png');
+export const room82 = require('./yellow82.png');
+export const room83 = require('./green83.png');
+export const room84 = require('./red84.png');
+export const room85 = require('./yellow85.png');
+export const room86 = require('./red86.png');
+export const room87 = require('./yellow87.png');
+export const room88 = require('./green88.png');
+export const room89 = require('./yellow89.png');
+export const room90 = require('./red90.png');
+
+export const room91 = require('./blue91.png');
+export const room92 = require('./blue92.png');
+export const room93 = require('./blue93.png');
+export const room94 = require('./blue94.png');
+export const room95 = require('./blue95.png');
+export const room96 = require('./blue96.png');
+export const room97 = require('./blue97.png');
+export const room98 = require('./blue98.png');
+export const room99 = require('./blue99.png');
+export const room100 = require('./blue100.png');
+

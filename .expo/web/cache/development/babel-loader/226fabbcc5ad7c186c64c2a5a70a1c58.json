@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var ammo = require(\"./ammo\");","map":{"version":3,"names":["ammo","require"],"sources":["/home/alex/react-dice/src/dice-box/diceBox.js"],"sourcesContent":["export const ammo = require('./ammo');"],"mappings":"AAAA,OAAO,IAAMA,IAAI,GAAGC,OAAO,UAApB"},"metadata":{},"sourceType":"module"}

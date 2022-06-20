@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var modelsDefault = require(\"./models/default.json\");","map":{"version":3,"names":["modelsDefault","require"],"sources":["/home/alex/react-dice/src/dice-box/index.js"],"sourcesContent":["export const modelsDefault = require('./models/default.json');"],"mappings":"AAAA,OAAO,IAAMA,aAAa,GAAGC,OAAO,yBAA7B"},"metadata":{},"sourceType":"module"}

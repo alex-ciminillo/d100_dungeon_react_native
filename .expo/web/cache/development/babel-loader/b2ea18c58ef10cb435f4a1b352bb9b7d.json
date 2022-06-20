@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var room1 = require(\"./yellow1.png\");","map":{"version":3,"names":["room1","require"],"sources":["/home/alex/react-dice/src/image/index.js"],"sourcesContent":["export const room1 = require('./yellow1.png');"],"mappings":"AAAA,OAAO,IAAMA,KAAK,GAAGC,OAAO,iBAArB"},"metadata":{},"sourceType":"module"}

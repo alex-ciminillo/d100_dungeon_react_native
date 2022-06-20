@@ -1,0 +1,1 @@
+export const modelsDefault = require('./models/default.json');

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var yellow1 = require(\"./yellow1.png\");","map":{"version":3,"names":["yellow1","require"],"sources":["/home/alex/react-dice/src/image/index.js"],"sourcesContent":["export const yellow1 = require('./yellow1.png');"],"mappings":"AAAA,OAAO,IAAMA,OAAO,GAAGC,OAAO,iBAAvB"},"metadata":{},"sourceType":"module"}

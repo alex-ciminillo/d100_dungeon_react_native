@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-dice",
+    "slug": "react-dice",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-dice"
+}

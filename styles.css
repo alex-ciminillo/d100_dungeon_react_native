@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  position: relative;
+  font-size: 1rem;
+}
+
+button {
+  font-size: 1rem;
+  padding: 5px;
+  cursor: pointer;
+}
+
+#dice-box,
+#dice-box canvas {
+  position: fixed;
+  pointer-events: none;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
+}
